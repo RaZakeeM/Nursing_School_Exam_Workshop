@@ -5,3 +5,5 @@ This repository contains the materials I prepared for the teas Mathematics works
 
 The spreadsheets used for time allocation data analysis can be found at 
 https://docs.google.com/spreadsheets/d/1TyWKDzC7ZGyVHi079unqYiKK7PYhXDBwNvjyl6jd8XU/edit?usp=sharing
+
+The survey can be reached either via the QR code or the direct link file.
